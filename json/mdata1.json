@@ -1,0 +1,602 @@
+[
+  {
+    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1567114",
+    "text": "MITM on HTTPS traffic in Kazakhstan"
+  },
+  {
+    "url": "https://nullsweep.com/http-security-headers-a-complete-guide/",
+    "text": "HTTP Security Headers – A Complete Guide"
+  },
+  {
+    "url": "https://techpost.io/why-you-cant-compete-with-google-the-deplatforming-of-livevideo-com/",
+    "text": "How I tried to compete with YouTube and Google with Livevideo.com"
+  },
+  {
+    "url": "http://norvig.com/design-patterns/design-patterns.pdf",
+    "text": "Design Patterns in Dynamic Programming (1996) [pdf]"
+  },
+  {
+    "url": "https://outflux.net/blog/archives/2019/07/17/security-things-in-linux-v5-2/",
+    "text": "Security Things in Linux v5.2"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Symmetry_minute",
+    "text": "Symmetry Minute"
+  },
+  {
+    "url": "https://www.amplenote.com/blog/2019_examples_amazon_textract_rekognition_microsoft_cognitive_services_google_vision",
+    "text": "2019 examples to compare OCR services: Amazon vs. Google vs. Microsoft"
+  },
+  {
+    "url": "https://justinmeiners.github.io/think-in-math/",
+    "text": "Think in Math, Write in Code"
+  },
+  {
+    "url": "https://thezerohack.com/hack-any-instagram",
+    "text": "How I Could Have Hacked Any Instagram Account"
+  },
+  {
+    "url": "https://ivan.bessarabov.com/blog/famous-programmers-work-time",
+    "text": "At what time of day do famous programmers work?"
+  },
+  {
+    "url": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/buildingthenewtwitter.html",
+    "text": "Building the New Twitter.com"
+  },
+  {
+    "url": "http://sigdoc.acm.org/wp-content/uploads/2019/01/CDQ18002_Meng_Steinhardt_Schubert.pdf",
+    "text": "Developers use API documentation: an observation study [pdf]"
+  },
+  {
+    "url": "https://fuzzbuzz.io/jobs",
+    "text": "Fuzzbuzz (YC W19) Hiring an engineer to lead development on a new Fuzzing engine"
+  },
+  {
+    "url": "http://rahulrav.com/blog/self_driving_radio_controlled_cars.html",
+    "text": "Adventures Building a Self-Driving RC Car"
+  },
+  {
+    "url": "https://www.masonrymagazine.com/blog/2018/11/01/dry-stone-walls-principles-of-structurally-sound-construction/",
+    "text": "Dry Stone Walls – Principles of structurally sound construction (2018)"
+  },
+  {
+    "url": "https://iqlusion.blog/introducing-abscissa-rust-application-framework",
+    "text": "Introducing Abscissa: iqlusion’s security-oriented Rust application framework"
+  },
+  {
+    "url": "https://blog.google/products/maps/margaret-hamilton-apollo-11-tribute/",
+    "text": "A moonlit tribute to a moon landing icon"
+  },
+  {
+    "url": "https://www.mathworks.com/company/newsletters/articles/the-apollo-11-moon-landing-spacecraft-design-then-and-now.html",
+    "text": "The Apollo 11 Moon Landing: Spacecraft Design Then and Now"
+  },
+  {
+    "url": "item?id=20472640",
+    "text": "Ask HN: Anyone Using Cockroach DB in Production?"
+  },
+  {
+    "url": "https://www.nature.com/articles/d41586-019-02222-2",
+    "text": "Hawaii telescope protest shuts down 13 observatories on Mauna Kea"
+  },
+  {
+    "url": "https://www.mercurynews.com/2019/07/17/h-1b-federal-judge-backs-governments-narrower-view-of-specialty-occupation-in-tossing-indian-womans-case/",
+    "text": "H-1B: Federal judge backs government’s narrower view of ‘specialty occupation’"
+  },
+  {
+    "url": "https://www.city-journal.org/john-doe-v-purdue-univ",
+    "text": "Returning Due Process to Campus"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2019/07/dataspii-technical-deep-dive/",
+    "text": "DataSpii: Extensions hide their data grabs–and how they’re discovered"
+  },
+  {
+    "url": "https://www.theregister.co.uk/2019/07/17/exmicrosoft_engineer_arrested_fraud/",
+    "text": "Ex-Microsoft dev used test account to swipe $10M in store credits"
+  },
+  {
+    "url": "https://www.wsj.com/articles/iran-seizes-foreign-tanker-it-accuses-of-smuggling-fuel-11563449352?mod=rsswn",
+    "text": "U.S. Destroys Iranian drone using “electronic jamming”"
+  },
+  {
+    "url": "https://www.economist.com/international/2019/07/18/space-law-is-inadequate-for-the-boom-in-human-activity-there",
+    "text": "Space law is inadequate for the boom in human activity there"
+  },
+  {
+    "url": "https://stephanheijl.com/notes_on_large_scale_adversarial_learning.html",
+    "text": "Large Scale Adversarial Representation Learning Explained"
+  },
+  {
+    "url": "https://www.theatlantic.com/magazine/archive/1882/02/some-traits-of-bismarck/376172/",
+    "text": "Some Traits of Bismarck"
+  },
+  {
+    "url": "https://digiday.com/media/were-building-for-media-businesses-of-tomorrow-how-the-washington-post-is-preparing-for-a-cookieless-future/",
+    "text": "The Washington Post is preparing for post-cookie ad targeting"
+  },
+  {
+    "url": "https://melmagazine.com/en-us/story/the-loneliness-epidemic-is-so-bad-world-leaders-have-been-forced-to-intervene",
+    "text": "The Loneliness Epidemic"
+  },
+  {
+    "url": "https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#25ca052b62f1",
+    "text": "FaceApp Now Owns Access to More Than 150M People's Faces and Names"
+  },
+  {
+    "url": "https://www.vice.com/en_us/article/43j99g/eff-hits-atandt-with-class-action-lawsuit-for-selling-customers-location-to-bounty-hunters",
+    "text": "AT&T to Face EFF Class Action for Selling Customers’ Location to Bounty Hunters"
+  },
+  {
+    "url": "https://www.nytimes.com/2019/07/15/t-magazine/most-important-contemporary-art.html",
+    "text": "Works of Art That Define the Contemporary Age"
+  },
+  {
+    "url": "https://www.zdnet.com/article/microsoft-to-explore-using-rust/",
+    "text": "Microsoft to Explore Using Rust"
+  },
+  {
+    "url": "https://github.com/graphql-editor/graphql-zeus",
+    "text": "Show HN: GraphQL Zeus – Autocomplete GraphQL Queries in JavaScript and TS"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/999-year_lease",
+    "text": "999-Year Lease"
+  },
+  {
+    "url": "http://nautil.us/issue/74/networks/when-the-earth-had-two-moons-rp",
+    "text": "A new model, “The Big Splat”, explains the strange asymmetry of the moon (2014)"
+  },
+  {
+    "url": "https://www.huckmag.com/art-and-culture/art-2/to-evelyn-posters-from-the-stars-book-photography/",
+    "text": "A treasure trove of amateur gig posters from the ’90s"
+  },
+  {
+    "url": "item?id=20472198",
+    "text": "Ask HN: Which Laptop to Switch to from Macbook?"
+  },
+  {
+    "url": "https://www.buzzfeednews.com/article/ryanmac/grindr-chinese-owner-company-chaos",
+    "text": "Grindr has faced a federal investigation, layoffs, mismanagement, and turmoil"
+  },
+  {
+    "url": "https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#heading=h.pdmqf3646hgt",
+    "text": "The Great CEO Within (Formerly: Founder to CEO)"
+  },
+  {
+    "url": "https://www.propublica.org/article/stebbins-alaska-cops-criminal-records-domestic-violence",
+    "text": "The village where every cop has been convicted of domestic violence"
+  },
+  {
+    "url": "http://web.archive.org/web/20030401195859/http://home.nycap.rr.com/pflass/plisprg.htm",
+    "text": "PL/I as a Tool for System Programming (1969)"
+  },
+  {
+    "url": "https://www.washingtonpost.com/us-policy/2019/07/18/elizabeth-warren-detailed-attack-private-equity-unveils-plan-stop-looting-us-companies/",
+    "text": "Warren unveils detailed plan to stop PE ‘looting’ U.S. companies"
+  },
+  {
+    "url": "https://lwn.net/SubscriberLink/793818/0c6f9dd271021cd4/",
+    "text": "What's Coming in Python 3.8"
+  },
+  {
+    "url": "https://github.com/fanout/apollo-serverless-demo",
+    "text": "Show HN: Serverless GraphQL Subscriptions"
+  },
+  {
+    "url": "https://www.theatlantic.com/ideas/archive/2019/07/where-have-all-the-children-gone/594133/",
+    "text": "The Future of the City Is Childless"
+  },
+  {
+    "url": "https://www.kdevelop.org/news/kdevelop-533-released",
+    "text": "KDevelop 5.3.3 Released"
+  },
+  {
+    "url": "http://www.platformonomics.com/2019/07/a-very-cold-take-on-ibm-red-hat-and-their-hybrid-cloud-hyperbole/",
+    "text": "A Cold Take on IBM, Red Hat and Their Hybrid Cloud Hyperbole"
+  },
+  {
+    "url": "https://www.historytoday.com/archive/feature/doctoring-ladies",
+    "text": "Doctoring the Ladies"
+  },
+  {
+    "url": "https://www.cnn.com/2019/07/18/politics/minimum-wage-house-vote/",
+    "text": "House passes $15 minimum wage bill"
+  },
+  {
+    "url": "https://eng.uber.com/h3/#hco",
+    "text": "H3: Uber’s Hexagonal Hierarchical Spatial Index (2018)"
+  },
+  {
+    "url": "https://www.jeffgeerling.com/blog/2019/raspberry-pi-4-needs-fan-heres-why-and-how-you-can-add-one",
+    "text": "The Raspberry Pi 4 needs a fan"
+  },
+  {
+    "url": "https://fuse.wikichip.org/news/2519/intel-labs-builds-a-neuromorphic-system-with-64-to-768-loihi-chips-8-million-to-100-million-neurons/",
+    "text": "Intel Builds a Neuromorphic System with 64 to 768 Loihi Chips: 8-100M Neurons"
+  },
+  {
+    "url": "https://sociable.co/technology/at-this-rate-the-african-elephant-will-be-extinct-in-11-years-conservation-tech-lab/",
+    "text": "‘At this rate the African elephant will be extinct in 11 years’: tech lab"
+  },
+  {
+    "url": "http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/",
+    "text": "Front end design, react, and a bridge over the great divide"
+  },
+  {
+    "url": "https://www.sciencemag.org/news/2019/07/gorillas-have-developed-humanlike-social-structure-controversial-study-suggests",
+    "text": "Gorillas have developed humanlike social structure, controversial study suggests"
+  },
+  {
+    "url": "https://www.sfchronicle.com/bayarea/article/Berkeley-becomes-first-U-S-city-to-ban-natural-14102242.php",
+    "text": "Berkeley becomes first US city to ban natural gas in new homes"
+  },
+  {
+    "url": "https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/",
+    "text": "Operating a large distributed system in a reliable way: practices I learned"
+  },
+  {
+    "url": "https://www.flightglobal.com/news/articles/a321neo-operators-alerted-over-excessive-pitch-ano-459718/",
+    "text": "A321neo operators alerted over 'excessive pitch' anomaly"
+  },
+  {
+    "url": "http://jeff-vogel.blogspot.com/2019/07/the-glorious-profitable-inescapable-art.html",
+    "text": "The Glorious, Profitable, Inescapable Art of Addiction"
+  },
+  {
+    "url": "https://networkingnerd.net/2019/07/18/i-was-a-10x-engineer-and-im-sorry/",
+    "text": "I was a 10x engineer and I’m sorry"
+  },
+  {
+    "url": "https://drive.google.com/file/d/1RPX_9u01MEU-QDWU4h-90QF9XqZo7PvH/view",
+    "text": "Gallery of Programmer Interfaces"
+  },
+  {
+    "url": "https://petapixel.com/2019/07/15/what-does-an-unprocessed-raw-file-look-like/",
+    "text": "What does an unprocessed RAW file look like?"
+  },
+  {
+    "url": "https://www.wired.com/story/free-trial-card/",
+    "text": "DoNotPay's new service auto-cancels free trials"
+  },
+  {
+    "url": "https://mainichi.jp/english/articles/20190718/p2a/00m/0na/002000c",
+    "text": "33 dead after arson attack at Kyoto Animation studio, dozens injured"
+  },
+  {
+    "url": "https://www.hsj.co.uk/comment/the-bedpan-the-poor-cant-afford-to-follow-public-health-advice/7025532.article",
+    "text": "The poor can’t afford to follow public health advice"
+  },
+  {
+    "url": "https://blog.mainframe.dev/2019/07/powering-mainframe.html",
+    "text": "Powering a Mainframe"
+  },
+  {
+    "url": "https://www.nytimes.com/interactive/2019/07/16/world/europe/notre-dame.html",
+    "text": "Notre-Dame came closer to collapsing than people knew"
+  },
+  {
+    "url": "https://destevez.net/2019/07/galileo-constellation-outage/",
+    "text": "Investigating the Galileo Satellite Navigation System Outage with a LimeSDR"
+  },
+  {
+    "url": "https://petapixel.com/2019/07/17/amazon-accidentally-sold-13000-camera-gear-for-100-on-prime-day/",
+    "text": "Amazon Accidentally Sold $13k Camera Gear for $100 on Prime Day"
+  },
+  {
+    "url": "https://www.nytimes.com/2019/07/18/style/why-are-there-so-many-podcasts.html",
+    "text": "Have We Hit Peak Podcast?"
+  },
+  {
+    "url": "https://slackhq.com/new-information-2015-incident",
+    "text": "New information about Slack’s 2015 security incident"
+  },
+  {
+    "url": "https://www.marketwatch.com/story/why-financial-education-wont-solve-the-15-trillion-student-loan-crisis-2019-06-27",
+    "text": "Why America’s $1.5T student-loan crisis spiralled out of control"
+  },
+  {
+    "url": "https://gridbugs.org/zelda-screen-transitions-are-undefined-behaviour/",
+    "text": "Zelda Screen Transitions Are Undefined Behaviour"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2019/jul/13/margaret-hamilton-computer-scientist-interview-software-apollo-missions-1969-moon-landing-nasa-women",
+    "text": "An interview with Margaret Hamilton"
+  },
+  {
+    "url": "https://www.citylab.com/transportation/2019/07/denmark-train-travel-times-copenhagen-aarhus-odense/593557/",
+    "text": "In Denmark's Train Dream, the Next Big City Is Only an Hour Away"
+  },
+  {
+    "url": "https://blog.dijit.sh/how-to-survive-an-open-office",
+    "text": "How to survive an open office"
+  },
+  {
+    "url": "https://www.benlcollins.com/spreadsheets/google-sheets-formula-clock/",
+    "text": "Google Sheets Formula Clock"
+  },
+  {
+    "url": "https://www.littlebird.com.au/blogs/news/colourful-printed-circuit-boards",
+    "text": "Show HN: PCBs with Full-Color Graphics"
+  },
+  {
+    "url": "https://techcrunch.com/2019/07/16/ai-photo-editor-faceapp-goes-viral-again-on-ios-raises-questions-about-photo-library-access-and-clo/",
+    "text": "Questionable AI photo editor FaceApp goes viral again on iOS"
+  },
+  {
+    "url": "https://www.defenseone.com/technology/2019/07/why-s-400-and-f-35-cant-get-along/158504/?oref=d-mostread",
+    "text": "Why the S-400 and the F-35 Can’t Get Along"
+  },
+  {
+    "url": "https://www.the-tls.co.uk/articles/public/isnt-it-byronic-don-juan/",
+    "text": "Isn't it Byronic? Don Juan at 200"
+  },
+  {
+    "url": "https://stackoverflow.blog/2019/07/18/building-community-inclusivity-stack-overflow/",
+    "text": "What a bad day at work taught me about building Stack Overflow’s community"
+  },
+  {
+    "url": "https://kevinslin.com/aws/tale_of_two_buckets",
+    "text": "Investigating Multi-Account IAM Issues in S3 and CloudFront"
+  },
+  {
+    "url": "https://www.c-span.org/video/?c4808083/rust-language-chosen",
+    "text": "“Why was Rust chosen for Libra?” in congressional hearing [video]"
+  },
+  {
+    "url": "https://www.chenhuijing.com/blog/recreating-the-fools-mate-chess-move-with-css-grid/",
+    "text": "Recreating the Fool's Mate Chess Move with CSS Grid"
+  },
+  {
+    "url": "https://asia.nikkei.com/Economy/Trade-war/China-scrambles-to-stem-manufacturing-exodus-as-50-companies-leave",
+    "text": "China scrambles to stem manufacturing exodus as companies leave"
+  },
+  {
+    "url": "https://spreadprivacy.com/duckduckgo-apple-mapkit-js-update/",
+    "text": "DuckDuckGo Expands Use of Apple Maps"
+  },
+  {
+    "url": "https://stephencoakley.com/2019/04/24/how-rust-solved-dependency-hell",
+    "text": "Rust Solved Dependency Hell"
+  },
+  {
+    "url": "https://zepworks.com/posts/faster-better-cheaper-and-re-architecture/",
+    "text": "Faster, cheaper, and better: A story of breaking a monolith"
+  },
+  {
+    "url": "https://gophercises.com/",
+    "text": "Gophercises – Coding exercises for budding gophers"
+  },
+  {
+    "url": "https://github.com/michelp/pygraphblas/tree/master",
+    "text": "Show HN: Graph Processing with Python and GraphBLAS"
+  },
+  {
+    "url": "https://www.laphamsquarterly.org/happiness/impossible-dream",
+    "text": "The Impossible Dream"
+  },
+  {
+    "url": "http://matt.might.net/articles/what-cs-majors-should-know/",
+    "text": "What every computer science major should know (2011)"
+  },
+  {
+    "url": "https://virtuallyfun.com/wordpress/2019/07/12/gmail-on-nt-3-51-with-ie1-5-via-wrp-4-1/",
+    "text": "Gmail on NT 3.51 with IE 1.5 via WRP"
+  },
+  {
+    "url": "https://thebulletin.org/2019/07/airplane-contrails-are-changing-the-climate/#.XTCSqqYrZLo.hackernews",
+    "text": "Airplane contrails are changing the climate – Bulletin of the Atomic Scientists"
+  },
+  {
+    "url": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/buildingfasterwithcomponents.html",
+    "text": "Using component-based design helps us build faster"
+  },
+  {
+    "url": "https://daniel-lange.com/archives/152-hello-buster.html",
+    "text": "OpenSSH taking minutes to become available, booting takes half an hour (2018)"
+  },
+  {
+    "url": "https://android.stackexchange.com/questions/47819/how-can-phone-companies-detect-tethering-incl-wifi-hotspot",
+    "text": "How can phone companies detect tethering?"
+  },
+  {
+    "url": "item?id=20464486",
+    "text": "Tell HN: Pluralsight and the dark-pattern of auto-renewals"
+  },
+  {
+    "url": "https://www.nytimes.com/2019/07/17/technology/google-glass-device-treat-autism.html",
+    "text": "Google Glass May Have an Afterlife as a Device to Teach Autistic Children"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=D6L__oR1O9A",
+    "text": "YouTube video has its own URL in it"
+  },
+  {
+    "url": "https://start.jcolemorrison.com/understanding-enough-awk-to-search-piles-of-files-and-text/",
+    "text": "Understanding Enough Awk to Search Piles of Files and Text"
+  },
+  {
+    "url": "https://boats.gitlab.io/blog/post/notes-on-a-smaller-rust/",
+    "text": "Notes on a Smaller Rust"
+  },
+  {
+    "url": "https://www.independent.co.uk/news/world/middle-east/egypt-bent-pyramid-dahshur-cairo-sneferu-pharaoh-a9003906.html",
+    "text": "Egyptian ‘bent’ pyramid dating back 4,600 years opens to public"
+  },
+  {
+    "url": "https://www.archdaily.com/920002/a-series-of-maps-reveals-the-difference-in-how-cities-are-perceived-by-tourists-and-locals",
+    "text": "Maps Reveal the Difference in How Cities Are Perceived by Tourists and Locals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/OpenMusic",
+    "text": "OpenMusic: visual programming env for musical composition based on Common Lisp"
+  },
+  {
+    "url": "https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-%EF%B8%8F-92a4b666c7c7",
+    "text": "Object-Oriented Programming – The Trillion Dollar Disaster"
+  },
+  {
+    "url": "https://japantoday.com/category/crime/At-least-13-dead-40-injured-after-man-sets-fire-to-Kyoto-anime-studio",
+    "text": "At least 23 confirmed or presumed dead after man sets fire to Kyoto anime studio"
+  },
+  {
+    "url": "https://ahotcupofjoe.net/2019/05/new-world-drugs-in-old-world-mummies/",
+    "text": "New World Drugs in Old World Mummies?"
+  },
+  {
+    "url": "https://www.nytimes.com/2019/07/16/books/review/books-review-escalantes-dream-david-roberts.html",
+    "text": "Escalante's Dream: On the Trail of the Spanish Discovery of the Southwest"
+  },
+  {
+    "url": "https://github.com/not-kennethreitz/team/issues/21",
+    "text": "Issue: find a new home for repos including Requests"
+  },
+  {
+    "url": "http://nautil.us/issue/74/networks/she-rewrote-the-moons-origin-story",
+    "text": "She Rewrote the Moon’s Origin Story"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2019/07/dataspii-inside-the-debacle-that-dished-private-data-from-apple-tesla-blue-origin-and-4m-people/",
+    "text": "DataSpii: The debacle that dished private data from 4M people"
+  },
+  {
+    "url": "https://www.forbes.com/sites/amyfeldman/2019/07/16/next-billion-dollar-startups-2019/",
+    "text": "Next Billion-Dollar Startups 2019"
+  },
+  {
+    "url": "https://publicdomainreview.org/2019/07/10/the-myth-of-blubber-town-an-arctic-metropolis/",
+    "text": "The Myth of Blubber Town, an Arctic Metropolis"
+  },
+  {
+    "url": "https://www.theatlantic.com/health/archive/2019/07/coffee-financial-advice/594244/",
+    "text": "The Rise of Coffee Shaming"
+  },
+  {
+    "url": "https://stanfordnlp.github.io/stanfordnlp/",
+    "text": "StanfordNLP – Python NLP Library for Many Human Languages"
+  },
+  {
+    "url": "https://www.cnbc.com/2019/07/17/foreign-purchases-of-american-homes-plunge-36percent-as-chinese-buyers-flee.html",
+    "text": "Foreign purchases of American homes plunge as Chinese buyers flee the market"
+  },
+  {
+    "url": "https://www.tpr.org/post/how-cobol-still-powers-global-economy-60-years-old",
+    "text": "Cobol Still Powers the Global Economy"
+  },
+  {
+    "url": "https://arxiv.org/abs/1907.06679",
+    "text": "Towards Near-Imperceptible Steganographic Text"
+  },
+  {
+    "url": "https://www.sweetjs.org/",
+    "text": "Sweet.js – Hygienic Macros for JavaScript"
+  },
+  {
+    "url": "http://ocaml.xyz",
+    "text": "Owl – OCaml Scientific Computing"
+  },
+  {
+    "url": "http://rachelbythebay.com/w/2019/07/15/giant/",
+    "text": "Your nines are not my nines"
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/popup-tab-switcher/cehdjppppegalmaffcdffkkpmoflfhkc",
+    "text": "Show HN: A browser extension that makes switching between tabs easier"
+  },
+  {
+    "url": "https://jasonlefkowitz.net/2013/03/the-long-strange-trip-of-desiree-clary/",
+    "text": "The long, strange trip of Désirée Clary (2013)"
+  },
+  {
+    "url": "https://kripken.github.io/blog/wasm/2019/07/16/asyncify.html",
+    "text": "Pause and Resume WebAssembly with Binaryen's Asyncify"
+  },
+  {
+    "url": "https://www.strongtowns.org/journal/2019/7/15/my-journey-from-free-market-ideologue-part-5-commercial-development",
+    "text": "My Journey from Free Market Ideologue, Part 5: Commercial Development"
+  },
+  {
+    "url": "https://arstechnica.com/science/2019/07/76-billion-opioid-pills-in-7-years-how-pharma-companies-drowned-us-in-drugs",
+    "text": "76B opioid pills in 7 years. How pharma companies drowned US in drugs"
+  },
+  {
+    "url": "https://www.propublica.org/article/trump-tax-law-threatened-turbotax-profits-started-charging-disabled-unemployed-and-students#164493",
+    "text": "TurboTax to charge more lower-income customers"
+  },
+  {
+    "url": "http://journyal.com",
+    "text": "Show HN: Journyal – travel journaling made simple"
+  },
+  {
+    "url": "https://www.nature.com/articles/d41586-019-02144-z",
+    "text": "Leonardo da Vinci’s laboratory: studies in flow"
+  },
+  {
+    "url": "https://unlikekinds.com/article/google-pbns",
+    "text": "Google Search is routinely gamed by private blog networks"
+  },
+  {
+    "url": "https://andygrove.io/2019/07/announcing-ballista/",
+    "text": "Ballista: Distributed Compute with Rust, Apache Arrow, and Kubernetes"
+  },
+  {
+    "url": "https://blog.sia.tech/meet-sia-the-most-viable-non-financial-application-of-blockchain-technology-afe6e7412a25",
+    "text": "Sia – Decentralized cloud storage network"
+  },
+  {
+    "url": "https://socialblast.cf/read-blog/1",
+    "text": "Did We Mishear Neil Armstrong?"
+  },
+  {
+    "url": "https://www.zdnet.com/article/no-love-lost-between-security-specialists-and-developers/",
+    "text": "No love lost between security specialists and developers"
+  },
+  {
+    "url": "https://nplusonemag.com/online-only/online-only/school-daze/",
+    "text": "School Daze"
+  },
+  {
+    "url": "https://www.nytimes.com/2019/07/16/science/5g-cellphones-wireless-cancer.html",
+    "text": "Inaccurate chart led to unwarranted fears of 5G wireless technology"
+  },
+  {
+    "url": "https://www.usenix.org/conference/atc19/presentation/chong",
+    "text": "The Semantics of Transactions and Weak Memory in x86, Power, ARM, and C++"
+  },
+  {
+    "url": "http://www.mtr.com.hk/archive/corporate/en/press_release/PR-19-044-E.pdf",
+    "text": "Hong Kong Metro Collision Report Investigation Panel Report [pdf]"
+  },
+  {
+    "url": "https://www.bbc.com/news/technology-49015516",
+    "text": "Google's Project Dragonfly 'Terminated' in China"
+  },
+  {
+    "url": "https://much.isds.tugraz.at/projects/hyper-g/9.htm/",
+    "text": "Hyper-G Organizes the Web (1995)"
+  },
+  {
+    "url": "item?id=20461577",
+    "text": "Launch HN: Wren (YC S19) – Offset Your Carbon Footprint"
+  },
+  {
+    "url": "http://webhome.cs.uvic.ca/~nigelh/Publications/PracticalEarleyParsing.pdf",
+    "text": "Practical Earley Parsing (2002) [pdf]"
+  },
+  {
+    "url": "https://www.openstreetmap.org/user/StephaneP/diary/390290",
+    "text": "You thought OpenStreetMap data uses the WGS84 datum? No it doesn't"
+  },
+  {
+    "url": "https://www.wsj.com/articles/chinas-state-driven-growth-model-is-running-out-of-gas-11563372006?mod=rsswn",
+    "text": "China’s State-Driven Growth Model Is Running Out of Gas"
+  },
+  {
+    "url": "https://github.com/cube2222/octosql",
+    "text": "Show HN: OctoSQL – Query and join multiple databases and files, written in Go"
+  },
+  {
+    "url": "https://pages.lip6.fr/Christian.Queinnec/PDF/www.pdf",
+    "text": "Inverting back the inversion of control (2003) [pdf]"
+  }
+]
