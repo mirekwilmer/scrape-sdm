@@ -1,37 +1,21 @@
-// load puppeteer
-const puppeteer = require("puppeteer");
 const fs = require("fs");
-const url = "https://clinicfinder.shoppersdrugmart.ca/";
+const puppeteer = require("puppeteer");
+const loadFsas = require('./loadFsas')
 
-let fsas = ["J7V", "L3R"];
+const CLINIC_FINDER_URL = "https://clinicfinder.shoppersdrugmart.ca/";
+const FSA_FILE = './FSA.csv'
 
 async function main() {
+  const fsas = await loadFsas(FSA_FILE)
+
   try {
-    // create new browser instance
     const browser = await puppeteer.launch({
       headless: false
-/*
-            slowMo: 150
-*/
     });
-    // create a page inside the browser
     const page = await browser.newPage();
-    // allow only 'document' type requests
-    /*                
-        await page.setRequestInterception(true);
-            page.on('request', (request) => {
-                if (request.resourceType() === 'document') {
-                    request.continue();
-                } else {
-                    request.abort();
-                }
-        });
-*/
-
-    // navigate to a website
 
     async function getData(fsa) {
-      await page.goto(url, {
+      await page.goto(CLINIC_FINDER_URL, {
         waitUntil: "networkidle2",
         timeout: 3000000
       });
