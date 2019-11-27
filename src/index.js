@@ -1,104 +1,108 @@
 require('dotenv').config()
 
-const fs = require("fs");
-const puppeteer = require("puppeteer");
+const fs = require('fs')
+const puppeteer = require('puppeteer')
 const loadFsas = require('./loadFsas')
 
 const data_dir = process.env.RESULTS_DIR || 'data'
-const CLINIC_FINDER_URL = "https://clinicfinder.shoppersdrugmart.ca/";
+const CLINIC_FINDER_URL = 'https://clinicfinder.shoppersdrugmart.ca/'
 const FSA_FILE = 'src/FSA.csv'
 
 if (!fs.existsSync(data_dir)) {
-  fs.mkdirSync(data_dir);
-})
+  fs.mkdirSync(data_dir)
+}
 
 async function main() {
   const fsas = await loadFsas(FSA_FILE)
 
   try {
     const browser = await puppeteer.launch({
-      headless: false
-    });
+      headless: false,
+    })
 
-    const page = await browser.newPage();
+    const page = await browser.newPage()
 
     async function getData(fsa) {
       await page.goto(CLINIC_FINDER_URL, {
-        waitUntil: "networkidle2",
-        timeout: 3000000
-      });
+        waitUntil: 'networkidle2',
+        timeout: 3000000,
+      })
 
-      let s = t => new Promise(r => setTimeout(r, t));
+      let s = t => new Promise(r => setTimeout(r, t))
 
-      await page.waitForSelector("#search-input");
-      await page.focus("#search-input");
-      await page.keyboard.type(fsa);
-      await page.focus("#search-input");
-      await page.waitForSelector(".pac-container");
+      await page.waitForSelector('#search-input')
+      await page.focus('#search-input')
+      await page.keyboard.type(fsa)
+      await page.focus('#search-input')
+      await page.waitForSelector('.pac-container')
 
-      await s(2000);
-      await page.keyboard.press("ArrowDown");
-      await s(1000);
-      await page.click("body");
-      await s(1000);
-      await page.focus("#search-button");
-      await page.click("#search-button");
+      await s(2000)
+      await page.keyboard.press('ArrowDown')
+      await s(1000)
+      await page.click('body')
+      await s(1000)
+      await page.focus('#search-button')
+      await page.click('#search-button')
 
-      await s(2000);
+      await s(2000)
 
       let data = await page.evaluate(() => {
         let searchResults = Array.from(
-          document.querySelectorAll(".search-result")
-        );
+          document.querySelectorAll('.search-result'),
+        )
         return searchResults.map(result => {
-          let name = result.querySelector("label.sb.purple").innerText;
-          let city = result.querySelector("label.ssb.black-font").innerText;
-          let address = result.querySelector("p.sr").innerText;
+          let name = result.querySelector('label.sb.purple').innerText
+          let city = result.querySelector('label.ssb.black-font').innerText
+          let address = result.querySelector('p.sr').innerText
 
           let details = result.querySelector(
-            ".row:nth-child(2) > div:last-child .col:first-child > a"
-          ).href;
+            '.row:nth-child(2) > div:last-child .col:first-child > a',
+          ).href
 
           let directions = result.querySelector(
-            ".row:nth-child(2) > div:last-child .col:last-child > a"
-          ).href;
+            '.row:nth-child(2) > div:last-child .col:last-child > a',
+          ).href
 
           return {
             name,
             city,
             address,
             details,
-            directions
-          };
-        });
-      });
+            directions,
+          }
+        })
+      })
 
       // save data as JSON
 
       await new Promise((resolve, reject) => {
-        fs.writeFile(`./${data_dir}/` + fsa + "-data.json", JSON.stringify(data, null, 2), err => {
-          if (err) {
-            reject(err);
-          } else {
-            resolve();
-            console.log(fsa + " Done.");
-          }
-        });
-      });
+        fs.writeFile(
+          `./${data_dir}/` + fsa + '-data.json',
+          JSON.stringify(data, null, 2),
+          err => {
+            if (err) {
+              reject(err)
+            } else {
+              resolve()
+              console.log(fsa + ' Done.')
+            }
+          },
+        )
+      })
     }
 
     for (let f of fsas) {
-      await getData(f);
+      await getData(f)
     }
 
-    console.log("finished");
-    browser.close();
+    console.log('finished')
+    browser.close()
 
     // all done, close this browser
   } catch (error) {
     // if something went wrong display the error
-    console.log(error);
+    console.log(error)
   }
 }
 
-main();
+main()

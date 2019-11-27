@@ -1,6 +1,19 @@
 {
-  "plugins": ["prettier"],
+  "parser": "babel-eslint",
+  "extends": ["plugin:prettier/recommended", "eslint:recommended"],
+  "env": {
+    "node": true,
+    "browser": true,
+    "webextensions": true
+  },
   "rules": {
-    "prettier/prettier": "error"
+    "prettier/prettier": [
+      1,
+      {
+        "semi": false,
+        "singleQuote": true,
+        "trailingComma": "all"
+      }
+    ]
   }
 }
