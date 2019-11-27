@@ -13,7 +13,8 @@
     "backpack-core": "^0.8.4",
     "dotenv": "^8.2.0",
     "eslint": "^6.7.1",
-    "eslint-config-prettier": "^6.7.0"
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-prettier": "^3.1.1"
   },
   "dependencies": {
     "csv-parse": "^4.8.2",
