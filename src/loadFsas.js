@@ -9,18 +9,18 @@ module.exports = (file) => {
       delimiter: '\n'
     })
     // Use the readable stream api
-    parser.on('readable', function(){
+    parser.on('readable', function () {
       let record
       while (record = parser.read()) {
         output.push(record)
       }
     })
     // Catch any error
-    parser.on('error', function(err){
+    parser.on('error', function (err) {
       console.error(err.message)
     })
     // When we are done, test that the parsed output matched what expected
-    parser.on('end', function(){
+    parser.on('end', function () {
       // console.log('end', output)
       resolve(output)
     })

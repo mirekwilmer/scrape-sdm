@@ -10,7 +10,8 @@
     "start": "backpack"
   },
   "devDependencies": {
-    "backpack-core": "^0.8.4"
+    "backpack-core": "^0.8.4",
+    "dotenv": "^8.2.0"
   },
   "dependencies": {
     "csv-parse": "^4.8.2",
