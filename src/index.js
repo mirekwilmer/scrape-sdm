@@ -4,7 +4,6 @@ const fs = require("fs");
 const puppeteer = require("puppeteer");
 const loadFsas = require('./loadFsas')
 
-
 const data_dir = process.env.RESULTS_DIR || 'data'
 const CLINIC_FINDER_URL = "https://clinicfinder.shoppersdrugmart.ca/";
 const FSA_FILE = 'src/FSA.csv'
@@ -13,7 +12,6 @@ if (!fs.existsSync(data_dir)) {
   fs.mkdirSync(data_dir);
 })
 
-
 async function main() {
   const fsas = await loadFsas(FSA_FILE)
 
@@ -21,6 +19,7 @@ async function main() {
     const browser = await puppeteer.launch({
       headless: false
     });
+
     const page = await browser.newPage();
 
     async function getData(fsa) {
