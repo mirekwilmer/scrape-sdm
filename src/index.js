@@ -23,19 +23,24 @@ async function main() {
 
     let s = t => new Promise(r => setTimeout(r, t))
 
-    await page.waitForSelector('#search-input')
-    await page.focus('#search-input')
-    await page.keyboard.type(fsa)
-    await page.focus('#search-input')
-    await page.waitForSelector('.pac-container')
+    try {
+      await page.waitForSelector('#search-input')
+      await page.focus('#search-input')
+      await page.keyboard.type(fsa)
+      await page.focus('#search-input')
+      await page.waitForSelector('.pac-container')
 
-    await s(2000)
-    await page.keyboard.press('ArrowDown')
-    await s(1000)
-    await page.click('body')
-    await s(1000)
-    await page.focus('#search-button')
-    await page.click('#search-button')
+      await s(2000)
+      await page.keyboard.press('ArrowDown')
+      await s(1000)
+      await page.click('body')
+      await s(1000)
+      await page.focus('#search-button')
+      await page.click('#search-button')
+    } catch (err) {
+      console.log(err.message)
+      return
+    }
 
     await s(2000)
 
