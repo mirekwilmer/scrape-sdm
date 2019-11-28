@@ -39,7 +39,7 @@ async function main() {
 
     await s(2000)
 
-    let data = await page.evaluate(() => {
+    let [data] = await page.evaluate(() => {
       let searchResults = Array.from(
         document.querySelectorAll('.search-result'),
       )
@@ -56,31 +56,21 @@ async function main() {
           '.row:nth-child(2) > div:last-child .col:last-child > a',
         ).href
 
-        return {
-          name,
-          city,
-          address,
-          details,
-          directions,
-        }
+        return [name, city, address, details, directions]
       })
     })
 
     // save data as JSON
 
     await new Promise((resolve, reject) => {
-      fs.writeFile(
-        `./${data_dir}/` + fsa + '-data.json',
-        JSON.stringify(data, null, 2),
-        err => {
-          if (err) {
-            reject(err)
-          } else {
-            resolve()
-            console.log(fsa + ' Done.')
-          }
-        },
-      )
+      fs.appendFile(`./${data_dir}/data.csv`, data.join('|') + '\n', err => {
+        if (err) {
+          reject(err)
+        } else {
+          resolve()
+          console.log(fsa + ' Done.')
+        }
+      })
     })
   }
 
