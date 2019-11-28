@@ -4,7 +4,8 @@
   "env": {
     "node": true,
     "browser": true,
-    "webextensions": true
+    "webextensions": true,
+    "es6": true
   },
   "rules": {
     "prettier/prettier": [

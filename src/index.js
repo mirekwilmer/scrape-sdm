@@ -13,6 +13,8 @@ if (!fs.existsSync(data_dir)) {
 }
 
 async function main() {
+  let page
+
   async function getData(fsa) {
     await page.goto(CLINIC_FINDER_URL, {
       waitUntil: 'networkidle2',
@@ -89,7 +91,7 @@ async function main() {
       headless: false,
     })
 
-    const page = await browser.newPage()
+    page = await browser.newPage()
 
     for (let f of fsas) {
       await getData(f)
